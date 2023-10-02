@@ -3,7 +3,7 @@
     background-color: lightgrey;
     flex-grow: 1;
     padding: 3px;
-    height: 40px;
+    height: 35px;
     
 
 
@@ -29,7 +29,7 @@ body {
   
 }
 .head-p{
-    height: 50%;
+    height: 50px;
     background-color:rgb(201, 105, 53) ;
     color: white;
     display: flex;
@@ -70,8 +70,7 @@ body {
     background-color: gray;
     display: flex;
     padding: 5px;
-    flex: 1;
-    height: 75%;
+   
   }
   .go-button{
    border: 1px solid gray;
@@ -96,8 +95,4 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-}
-.head{
-    flex: 1;
-    height: 20%;
 }
