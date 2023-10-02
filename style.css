@@ -70,6 +70,7 @@ body {
     display: flex;
     padding: 5px;
     flex: 1;
+    height: 75%;
   }
   .go-button{
    border: 1px solid gray;
@@ -88,6 +89,7 @@ body {
   }
   .footer{
     flex: 1;
+    height: 5%;
     background-color:rgb(201, 105, 53) ;
     color: white;
     display: flex;
@@ -96,5 +98,5 @@ body {
 }
 .head{
     flex: 1;
-    height: 50%;
+    height: 20%;
 }
