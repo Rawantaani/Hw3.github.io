@@ -3,6 +3,7 @@
     background-color: lightgrey;
     flex-grow: 1;
     padding: 3px;
+    height: 50%;
 
 
 }
@@ -27,7 +28,7 @@ body {
   
 }
 .head-p{
-    height: 50px;
+    height: 50%;
     background-color:rgb(201, 105, 53) ;
     color: white;
     display: flex;
@@ -95,4 +96,5 @@ body {
 }
 .head{
     flex: 1;
+    height: 100%;
 }
